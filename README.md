@@ -19,7 +19,7 @@
 
 Below is the interface:
 
-![UI](https://ibb.co/qFnpqr3)
+![UI](https://imgur.com/MNBRjtQ)
 
 
 ## Note: *The Backend Repo Together with the Build Code of ReactJS are set as Private*
