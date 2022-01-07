@@ -2,6 +2,8 @@
 
 ### This Repo is about the frontend of the software the we development during our Thesis. It is a Web-based Real Estate Management System with Sales Analysis and Customer Segmenation
 
+Visit Site: [https://www.occupy-rem.com](https://www.occupy-rem.com).
+
 ### The Technology the we used are:
 
 ### Frontend
